@@ -23,7 +23,7 @@ Step3.在脚本里面输入你要测试的dify网站链接
 运行脚本后,等待片刻,就可以在你的dify网站通过 Logs&Ann 看到结果
 
 运行后Prompt1.csv对应的是
-![img](D:\Pictures\Saved Pictures\typora\prompt1_completions.png)
+![img](image\prompt1_completions.png)
 Prompt2.csv对应的是
 ![img](image/prompt2_completions.png)
 
