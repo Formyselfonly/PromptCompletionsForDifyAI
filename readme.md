@@ -22,7 +22,7 @@ Step3.在脚本里面输入你要测试的dify网站链接
 
 运行后Prompt1.csv对应的是
 
-![img](image\prompt1_completions.png)
+![img](image/prompt1_completions.png)
 Prompt2.csv对应的是
 
 ![img](image/prompt2_completions.png)
