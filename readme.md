@@ -16,8 +16,6 @@ Step2.在excel表里面进行填写所有要测试的Prompt多轮对话,
 
 
 
-![image-20240428164709524](D:\Pictures\Saved Pictures\typora\prompt1.png)
-
 Step3.在脚本里面输入你要测试的dify网站链接
 
 运行脚本后,等待片刻,就可以在你的dify网站通过 Logs&Ann 看到结果
