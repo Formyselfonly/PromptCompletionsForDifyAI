@@ -1,6 +1,6 @@
 ## 项目功能&目的
 
-Dify站的自动化Prompt测试,节约Prompt2Completions测试时间
+Dify站自动化Prompt测试,节约Prompt2Completions测试时间
 方便Prompt工程师评测Prompt的效果,节约等待的时间
 
 ## 项目使用方法
